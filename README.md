@@ -1,4 +1,4 @@
-# LeetCode and Edabit
-⚡ Leetcode and Edabit Solutions in Javascript
+# Programming challenges from LeetCode and Edabit
+
 
 
