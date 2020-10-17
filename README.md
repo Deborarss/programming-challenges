@@ -1,5 +1,4 @@
-# LeetCode-Solutions
-⚡ Leetcode Solutions in Javascript
+# LeetCode-Solutions and Edabit
+⚡ Leetcode and Edabit Solutions in Javascript
 
-Visit the link for more challenges:
-https://leetcode.com/
+
